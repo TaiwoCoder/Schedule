@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    border: thin solid black;
+    background-color: #434040;
+    color: white;
+    width: 350px;
+    height: 300px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+h4{
+    padding-top: 20px;
+    font-weight: lighter;
+}
+#Date{
+    margin: ;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: gray;
+    border-radius: 20px;
+    height: 30px;
+    margin-bottom: 20px;
+    color: white;
+
+
+}
+#settime1{
+    margin-left: 20px;
+    height: 30px;
+    background-color: grey;
+    border-radius: 20px;
+    width: 100px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+
+}
+span{
+    margin-left: 20px;
+}
+#end{
+    padding-left: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: gray;
+    border-radius: 20px;
+    height: 30px;
+    margin-bottom: 20px;
+    color: white;
+    margin-left: 5px;
+}
+#settime2{
+    margin-left: 20px;
+    height: 30px;
+    background-color: grey;
+    border-radius: 20px;
+    width: 100px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+
+}
+#note{
+    background-color: grey;
+    border-radius: 10px;
+    width: 300px;
+    height: 80px;
+    text-align:center ;
+    color: rgb(221, 213, 213);
+    border: none;
+    padding-top:-100px;
+    
+}
+button{
+    background-color: #2b63ef;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+    border: 0;
+}
+   
+    
